@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding: 0; 
+}
+
+img {
+ 
+    height: 300px;
+}
+
+.vermelho{
+    color: #990066
+}
+
+.centro{
+    text-align: center;  
+}
+h1, h2{
+    font-family: 'Acme', sans-serif;
+}
